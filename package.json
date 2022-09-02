@@ -1,0 +1,15 @@
+{
+  "name": "eip712-nodejs",
+  "version": "1.0.0",
+  "description": "This repository shows how to implement signTypedData_4(EIP712) with nodejs",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "toptal126@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "eth-sig-util": "^3.0.1"
+  }
+}
