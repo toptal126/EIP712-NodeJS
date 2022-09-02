@@ -4,6 +4,7 @@
   "description": "This repository shows how to implement signTypedData_4(EIP712) with nodejs",
   "main": "test.js",
   "scripts": {
+    "dev": "nodemon test.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "toptal126@gmail.com",
